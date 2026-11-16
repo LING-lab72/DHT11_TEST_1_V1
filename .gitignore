@@ -1,0 +1,12 @@
+# Arduino 编译产物
+build/
+*.hex
+*.elf
+*.bin
+*.map
+*.o
+*.d
+
+# 系统缩略图
+.DS_Store
+Thumbs.db
